@@ -133,7 +133,7 @@ const Emojies: React.FC<EmojiProps> = ({ emojies }) => {
 const RestartButton: React.FC = () => {
   return (
     <div className={styles.restart}>
-      <img src="./assets/restart.svg" alt="Restart" />
+      <img src="../assets/restart.svg" alt="Restart" />
     </div>
   );
 };
