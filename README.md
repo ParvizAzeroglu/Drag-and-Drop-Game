@@ -1,3 +1,17 @@
+# Drag and Drop Game 
+
+This project is a simple Drag and Drop game designed for children, enabling players to match colors with fruit colors
+
+## Live Demo 
+
+The project is deployed and can be accessed live on Vercel. You can view the live site by visiting the following link:  
+[Live Site on Vercel](https://drag-and-drop-game-iota.vercel.app/)
+
+## Technologies
+
+This Project is developed using HTML, Module CSS, TS and React. 
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
